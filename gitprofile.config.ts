@@ -35,7 +35,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
   social: {
-    linkedin: 'manuel-munguia',
+    linkedin: 'manuel-munguia-rubio-458283197',
     x: '',
     mastodon: '',
     researchGate: '',
