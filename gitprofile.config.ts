@@ -34,6 +34,16 @@ const CONFIG = {
     external: {
       header: 'My Projects',
       projects: [],
+      header: 'Juego en Desarrollo',
+      projects: [
+        {
+          title: 'Rompecabezas Adaptativo',
+          description: 'Página oficial de soporte y desarrollo de mi próximo lanzamiento para Android.',
+          imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg', // Cambia esto por un link a una captura de tu juego
+          link: 'https://damanu123.github.io/Puzzle-Pagina/',
+        },
+        // Puedes borrar el segundo proyecto de ejemplo o dejarlo vacío
+      ],
     },
   },
   seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
