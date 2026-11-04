@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['DaManu123/Puzzle-Pagina', 
+        projects: ['https://damanu123.github.io/Puzzle-Pagina/', 
           'DaManu123/Cotiz_AC', 
           'DaManu123/8reynas',
           'DaManu123/mysql_login1'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
